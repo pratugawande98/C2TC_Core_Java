@@ -1,4 +1,4 @@
-package com.test.method;
+package com.cg.method;
 
 public class Example2 {
 	public void test() {

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.test.method;
+package com.cg.method;
 
 /**
  * @author Admin

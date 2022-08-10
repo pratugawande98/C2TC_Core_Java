@@ -1,4 +1,4 @@
-package com.test.method;
+package com.cg.method;
 
 public class Sample {
 	static void getStudentName( String name,String lastname) {
